@@ -15,7 +15,6 @@ Designed specifically for Android devices with unlocked bootloader like the Xiao
 | 📦 Flash Utility  | Flash `recovery.img` or `vendor_boot.img` directly through Fastboot           |
 | 💉 Root Tools     | Flash Magisk, check SU version, manage root access                            |
 | 📁 ZIP Flasher    | Flash ROMs or Magisk modules via ADB Sideload                                 |
-| 🎨 ASCII UI       | Clean CLI interface with classic stylized banner and menu navigation          |
 
 ---
 
@@ -23,7 +22,7 @@ Designed specifically for Android devices with unlocked bootloader like the Xiao
 
 1. **Clone the repo or download .bat file**
 2. Place your platform-tools in the same folder (or set ADB/Fastboot in your system PATH)
-3. Run `EX-OPS_Toolkit_v1.0.bat`  
+3. Run `AdvancedCustomROMMenu.bat`  
 4. Enable USB debugging on your Android device and authorize your PC
 
 > Works best on Windows XP/8/8.1/10/11 with [ADB & Fastboot tools] (https://developer.android.com/studio/releases/platform-tools)
